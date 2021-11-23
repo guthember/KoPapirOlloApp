@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("KoPapirOllo")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Kő - Papír - Olló")]
+[assembly: AssemblyDescription("Kő - Papír - Olló játék megvalósítása")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KoPapirOllo")]
+[assembly: AssemblyProduct("Kő - Papír - Olló")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
